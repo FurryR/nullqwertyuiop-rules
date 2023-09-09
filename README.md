@@ -1,6 +1,6 @@
 # 自定义规则
 
-@nullqwertyuiop 手改的 Clash 规则，适用于大部分场合。
+[@nullqwertyuiop](https://github.com/nullqwertyuiop) 手改的 Clash 规则，适用于大部分场合。
 
 # clash-rules
 
